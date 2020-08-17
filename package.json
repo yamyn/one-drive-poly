@@ -1,0 +1,31 @@
+{
+    "name": "one-drive-api-pools",
+    "version": "0.2.0",
+    "description": "OneDrive module for communicating with oneDrive API. based in 'onedrive-api' and have auto set tokens mechanism",
+    "main": "./lib/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/yamyn/one-drive-poly.git"
+    },
+    "keywords": [
+        "onedrive",
+        "aoi",
+        "rest",
+        "auth"
+    ],
+    "author": "Yaroslav Mynchenko",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/yamyn/one-drive-poly/issues"
+    },
+    "homepage": "https://github.com/yamyn/one-drive-poly#readme",
+    "dependencies": {
+        "lodash.get": "4.4.2",
+        "node-cache": "5.1.2",
+        "onedrive-api": "^0.3.4",
+        "request-promise": "4.2.6"
+    }
+}
