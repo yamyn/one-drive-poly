@@ -1,6 +1,6 @@
 {
     "name": "one-drive-api-pools",
-    "version": "0.2.0",
+    "version": "0.2.1",
     "description": "OneDrive module for communicating with oneDrive API. based in 'onedrive-api' and have auto set tokens mechanism",
     "main": "./lib/index.js",
     "scripts": {
