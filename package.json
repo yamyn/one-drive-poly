@@ -23,9 +23,9 @@
     },
     "homepage": "https://github.com/yamyn/one-drive-poly#readme",
     "dependencies": {
+        "axios": "0.19.2",
         "lodash.get": "4.4.2",
-        "node-cache": "5.1.2",
-        "onedrive-api": "^0.3.4",
-        "request-promise": "4.2.6"
+        "lodash.isempty": "4.4.0",
+        "node-cache": "5.1.2"
     }
 }
