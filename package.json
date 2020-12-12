@@ -1,6 +1,6 @@
 {
     "name": "one-drive-api-pools",
-    "version": "0.2.1",
+    "version": "1.0.4",
     "description": "OneDrive module for communicating with oneDrive API. based in 'onedrive-api' and have auto set tokens mechanism",
     "main": "./lib/index.js",
     "scripts": {
@@ -23,9 +23,8 @@
     },
     "homepage": "https://github.com/yamyn/one-drive-poly#readme",
     "dependencies": {
-        "axios": "0.19.2",
         "lodash.get": "4.4.2",
-        "lodash.isempty": "4.4.0",
-        "node-cache": "5.1.2"
+        "node-cache": "5.1.2",
+        "onedrive-api": "1.0.1"
     }
 }
